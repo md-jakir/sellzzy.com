@@ -25,3 +25,17 @@ This is an E-commerce web application developed with Python Flask hosted in AWS 
 ![image](https://github.com/user-attachments/assets/ec8a3a99-dbd6-48c8-8560-0697314ddf26)
 # Cleint Busines Overview:
 [selzzy custom domin problem .pdf](https://github.com/user-attachments/files/17444783/selzzy.custom.domin.problem.pdf)
+# Used AWS Services and Technologies
+- EC2
+- CodePipeline
+- CodeDeploy
+- RDS
+- ALB
+- Auto Scaling Group
+- S3
+- CloudFront
+- SNS
+- CloudWatch
+- Python
+- Gunicorn
+- Nginx
