@@ -17,3 +17,11 @@ This is an E-commerce web application developed with Python Flask hosted in AWS 
 ![image](https://github.com/user-attachments/assets/93d72ff9-ed16-4d29-a026-8f589c5a63cb)
 # CloudFront:
 ![image](https://github.com/user-attachments/assets/ccf4ee45-915b-415e-b8a8-37db50434949)
+# RDS
+![image](https://github.com/user-attachments/assets/8585639c-8793-4646-9c43-0c7b310a61c7)
+# CodePipeline:
+![image](https://github.com/user-attachments/assets/f92af19e-97b7-49df-b8c1-ab5ef64e3763)
+# Route 53
+![image](https://github.com/user-attachments/assets/ec8a3a99-dbd6-48c8-8560-0697314ddf26)
+# Cleint Busines Overview:
+[selzzy custom domin problem .pdf](https://github.com/user-attachments/files/17444783/selzzy.custom.domin.problem.pdf)
